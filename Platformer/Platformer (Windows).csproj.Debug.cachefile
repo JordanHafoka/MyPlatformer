@@ -12,12 +12,6 @@ Content\Sprites\Player\Die.xnb
 Content\Sprites\Player\Idle.xnb
 Content\Sprites\Player\Jump.xnb
 Content\Sprites\Player\Run.xnb
-Content\Tiles\BlockA1.xnb
-Content\Tiles\BlockA2.xnb
-Content\Tiles\BlockA3.xnb
-Content\Tiles\BlockA4.xnb
-Content\Tiles\BlockA5.xnb
-Content\Tiles\BlockA6.xnb
 Content\Tiles\BlockB0.xnb
 Content\Tiles\BlockB1.xnb
 Content\Tiles\Platform.xnb
@@ -35,10 +29,8 @@ Content\Overlays\you_lose.xnb
 Content\Overlays\you_win.xnb
 Content\Tiles\Exit.xnb
 Content\Fonts\Hud.xnb
-Content\Sounds\ExitReached.xnb
 Content\Sounds\GemCollected.xnb
 Content\Sounds\MonsterKilled.xnb
-Content\Sounds\Music.xnb
 Content\Sounds\PlayerFall.xnb
 Content\Sounds\PlayerJump.xnb
 Content\Sounds\PlayerKilled.xnb
@@ -47,7 +39,10 @@ Content\Sprites\MonsterA\Ganon Run.xnb
 Content\Sprites\MonsterC\Ganon Run.xnb
 Content\Sprites\MonsterC\Ganon Idle.xnb
 Content\Tiles\BlockA0.xnb
+Content\Sounds\Music.xnb
+Content\Sounds\ExitReached.xnb
 Content\Sounds\Music.wma
+Content\Sounds\ExitReached.wma
 Content\Levels\0.txt
 Content\Levels\2.txt
 Content\Levels\1.txt

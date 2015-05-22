@@ -110,7 +110,7 @@ namespace Platformer
             }
 
             // Load sounds.
-            exitReachedSound = Content.Load<SoundEffect>("Sounds/ExitReached");
+            //exitReachedSound = Content.Load<SoundEffect>("Sounds/ExitReached");
         }
 
         /// <summary>
@@ -219,7 +219,7 @@ namespace Platformer
 
                 // Impassable block
                 case '#':
-                    return LoadVarietyTile("BlockA", 7, TileCollision.Impassable);
+                    return LoadVarietyTile("BlockA", 1, TileCollision.Impassable);
 
                 // Unknown tile type character
                 default:
@@ -488,7 +488,7 @@ namespace Platformer
         private void OnExitReached()
         {
             Player.OnReachedExit();
-            exitReachedSound.Play();
+          //  exitReachedSound.Play();
             reachedExit = true;
         }
 
